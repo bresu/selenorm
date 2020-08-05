@@ -1,0 +1,6 @@
+1. Namensfindung, weil Selenorm gefällt mit nicht
+2. Das muss OOP sein weil sonst stirbst du
+3. Umfrage zu meist verwendetensten Browsern finden und uns anhand derer abarbeiten
+4. Basically müssen wir nur die driver class bzw die ganzen Options libraries wrappen, der ganze andere Kram wie driver.get() und find_by___() bleibt ja gleich. Vielleicht später einmal Helium anfragen für collab aber naja schau ma mal
+
+5. How the fuck does that work
