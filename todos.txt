@@ -4,3 +4,11 @@
 4. Basically müssen wir nur die driver class bzw die ganzen Options libraries wrappen, der ganze andere Kram wie driver.get() und find_by___() bleibt ja gleich. Vielleicht später einmal Helium anfragen für collab aber naja schau ma mal
 
 5. How the fuck does that work
+
+
+1. Chrome (drivers folder)
+2. Firefox (drivers folder)
+3. Safari (in path(/usr/bin/safaridriver), need safaridriver --enable"
+4. Internet Explorer (probably downloadable as well)
+5. Opera (chromium?)
+6. Brave nur für Franz(Chromium)
